@@ -1,0 +1,7 @@
+npm install react-native-tab-navigator —save 导航栏
+http://blog.csdn.net/jing85432373/article/details/54342756
+
+搭建首页的框架
+
+
+npm install react-native-scrollable-tab-view --save

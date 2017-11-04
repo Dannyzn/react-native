@@ -1,0 +1,9 @@
+// 没有用户数据时，从这个文件获取流行的语言
+
+[
+  {"name":"Android","checked":true},
+  {"name":"IOS","checked":false},
+  {"name":"React","checked":true},
+  {"name":"Java","checked":true},
+  {"name":"JS","checked":true}
+]
